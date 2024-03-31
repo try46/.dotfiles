@@ -96,7 +96,7 @@ pocket==0.3.6
 powerline-status==2.7
 prometheus-client==0.7.1
 prompt-toolkit==2.0.9
-protobuf==3.6.1
+protobuf==3.18.3
 ptyprocess==0.6.0
 PyAutoGUI==0.9.44
 pyclipper==1.1.0.post1
